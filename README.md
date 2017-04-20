@@ -1,4 +1,7 @@
-# test coverage for  [tar-stream (v1.5.2)](https://github.com/mafintosh/tar-stream)  [![npm package](https://img.shields.io/npm/v/npmtest-tar-stream.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-tar-stream) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-tar-stream.svg)](https://travis-ci.org/npmtest/node-npmtest-tar-stream)
+# npmtest-tar-stream
+
+#### basic test coverage for  [tar-stream (v1.5.2)](https://github.com/mafintosh/tar-stream)  [![npm package](https://img.shields.io/npm/v/npmtest-tar-stream.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-tar-stream) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-tar-stream.svg)](https://travis-ci.org/npmtest/node-npmtest-tar-stream)
+
 #### tar-stream is a streaming tar parser and generator and nothing else. It is streams2 and operates purely using streams which means you can easily extract/parse tarballs without ever hitting the file system.
 
 [![NPM](https://nodei.co/npm/tar-stream.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/tar-stream)
